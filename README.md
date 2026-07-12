@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi there 👋, I'm Yash Bhanushali
 
-<!--
-**YB1001/YB1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 MCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring AI/ML Engineer, Data Analyst & Business Analyst
+
+🌱 Currently learning:
+- Python
+- SQL
+- Machine Learning
+- Data Analytics
+- Git & GitHub
+- Power BI
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+- Python
+- SQL
+
+### Databases
+- MySQL
+
+### Web
+- HTML
+- CSS
+
+### Tools
+- VS Code
+- Jupyter Notebook
+- Git (Learning)
+- GitHub
+
+---
+
+## 📚 Certifications
+
+- IBM – Generative AI: Introduction and Applications
+- IBM – What is Data Science?
+- IBM – Introduction to Software Engineering (Honors)
+- IBM – Agile Development and Scrum
+- IBM – Linux Commands & Shell Scripting
+- IBM – Introduction to R Programming
+- Google – Computer Networking
+- University of Minnesota – Software Testing
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as:
+
+✔ AI/ML Engineer
+
+✔ Data Analyst
+
+✔ Business Analyst
+
+where I can apply analytical thinking, programming skills, and problem-solving abilities to create impactful solutions.
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+(Add your LinkedIn URL here later)
+
+Email:
+bhanushaliyash1001@gmail.com
